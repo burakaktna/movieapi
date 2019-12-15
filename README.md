@@ -1,2 +1,2 @@
 # movieapi
-MovieAPI created when learning Node.JS
+Movie API was written when learning Node.JS
